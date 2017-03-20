@@ -1,0 +1,16 @@
+{
+  "name": "logikmanufaktur",
+  "version": "1.0.0",
+  "description": "SPA for logikmanufaktur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SPA",
+    "logikmanufaktur",
+    "freelance"
+  ],
+  "author": "Pierre-Falk Matthaes",
+  "license": "ISC"
+}
