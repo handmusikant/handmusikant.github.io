@@ -1,0 +1,28 @@
+ToDo
+
+Generell
+------------------------------
+- Breadcrumbs an die rechte Seite mit leeren Punkten, die zu ausgefüllte Punkten werden beim scrollen/active werden
+- Navi-Leiste ans untere Ende der Seite "kleben", mit dreizeiligem Menüpunkt-Logo und grauer Hinterlegung bei Navigation
+
+<div> logik::manufaktur
+------------------------------
+- Logo in die Mitte als oberster Layer
+- background-image eine Mischung / Overlay aus UML-Diagrammen und Quelltext
+- weißer Hintergrund der gesamten Seite
+
+<div> Leistungen
+------------------------------
+- bei responsiver Reaktion darauf achten, dass die Inhalte nicht hinter dem kommenden <div> (Arbeiten) verschwinden
+
+<div> Arbeiten
+------------------------------
+- Slider mit Screenshots der Projekte größer machen
+- Slider eher Quadratisch machen als Rechteckig
+- Slider gegen zu starke Verkleinerung bei responsivem Verhalten sperren
+
+<div> Ueber-uns
+------------------------------
+- CSS-Card entspr. Skizze umgestalten
+- gegen zu starke Verkleinerung beim rensposiven Verhalten Sperren
+- Text gegen Verkleinerung sperren
