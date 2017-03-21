@@ -152,3 +152,23 @@
 * END SECTION "Slideshow Indicator"
 *
 */
+
+/*
+*
+* BEGIN SECTION "User Functions"
+*
+*/
+
+function changeTextColor(divID) {
+    document.getElementById(divID).style.background-color = '#522b47';
+};
+
+function resetTextColor(divID) {
+    document.getElementById(divID).style.background-color = '#ffffff';
+};
+
+/*
+*
+* END SECTION "User Functions"
+*
+*/
